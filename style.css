@@ -8,6 +8,11 @@
     background: transparent;
 }
 
+#Submitted {
+	color: #242423;
+	font-size: 8px;
+}
+
 .formdiv {
     background-color: #242423;
     position: relative;
